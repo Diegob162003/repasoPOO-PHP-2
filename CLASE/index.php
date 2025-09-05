@@ -53,5 +53,5 @@ $carroEspecial = new Carro();
 echo "La velocidad del carro es: ".$carroEspecial->getVelocidad()."KM/H". "<br/>";
 echo "El color del carro es: ". $carroEspecial->getColor(). "<br/>";
 
-//cambiar el color del carro
+//cambiar el color del carooo
 echo "Ahora el color es: ". $carroEspecial->setColor("Amarillo"). "<br/>";
